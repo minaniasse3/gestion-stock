@@ -110,5 +110,6 @@ GET /api/suppliers               # Liste des fournisseurs
 GET /api/dashboard/stats         # Statistiques pour le tableau de bord
 GET /api/statistics/stock-evolution  # Évolution du stock dans le temps
 ```
-
+- Lien Drive Video
+- https://drive.google.com/file/d/1iblzpB4eD4Mptm7O2Y-MXxiYBYi9zx-c/view?usp=sharing
 
