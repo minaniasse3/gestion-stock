@@ -4,13 +4,13 @@ Application web complète pour la gestion d'inventaire, développée avec Larave
 
 ## Fonctionnalités
 
-- Authentification** complète avec différents rôles (admin, manager, utilisateur)
-- Gestion des produits** (ajout, modification, suppression, recherche)
-- Suivi des fournisseurs** avec coordonnées et historique
-- Mouvements de stock** (entrées, sorties, ajustements, retours)
-- Tableau de bord** avec statistiques et aperçus
-- Génération de rapports** (PDF, Excel, CSV)
-- API RESTful** complète et sécurisée
+- Authentification complète avec différents rôles (admin, manager, utilisateur)
+- Gestion des produits (ajout, modification, suppression, recherche)
+- Suivi des fournisseurs avec coordonnées et historique
+- Mouvements de stock (entrées, sorties, ajustements, retours)
+- Tableau de bord avec statistiques et aperçus
+- Génération de rapports (PDF, Excel, CSV)
+- API RESTful complète et sécurisée
 
 ## Technologies utilisées
 
@@ -88,12 +88,12 @@ Le système est préchargé avec des données de démonstration pour faciliter l
 ## Structure de la base de données
 
 ### Tables principales
-- `users`: Gestion des utilisateurs et des permissions
-- `products`: Catalogue des produits en stock
-- `suppliers`: Liste des fournisseurs
-- `stock_movements`: Historique des mouvements (entrées, sorties, ajustements)
-- `activity_logs`: Journal des activités système
-- `reports`: Rapports générés par les utilisateurs
+- users: Gestion des utilisateurs et des permissions
+- products: Catalogue des produits en stock
+- suppliers: Liste des fournisseurs
+- stock_movements: Historique des mouvements (entrées, sorties, ajustements)
+- activity_logs: Journal des activités système
+- reports: Rapports générés par les utilisateurs
 
 ## API
 
